@@ -1,4 +1,4 @@
-# Android App Types
+# Credits
 
 - [Kotlin Primitive Types](https://kotlinlang.org/)
 - [Kotlin Standard Types](https://kotlinlang.org/api/latest/jvm/stdlib/)
