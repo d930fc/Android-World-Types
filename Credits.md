@@ -1,6 +1,7 @@
 # Credits
 
-- [Primitive Types](https://kotlinlang.org/)
+- Primitive Types
+	- [Kotlin](https://kotlinlang.org/)
 - Compound Types
-	- [Standard Types](https://kotlinlang.org/api/latest/jvm/stdlib/)
-	- [Platform Types](https://developer.android.google.cn/reference/)
+	- [Kotlin stdlib](https://kotlinlang.org/api/latest/jvm/stdlib/)
+	- [Android](https://developer.android.google.cn/reference/)
