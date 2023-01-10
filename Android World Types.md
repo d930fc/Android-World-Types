@@ -7,5 +7,5 @@
 	- [Java Standard Library](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 	- [Android Library](https://developer.android.google.cn/reference/)
 
-- Executable Types
+- Smartcore Types and Information Types
 	- No Discussion
